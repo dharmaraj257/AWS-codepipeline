@@ -62,4 +62,5 @@ GitHub.
 # Output:
 
 
+![Screenshot (26)](https://github.com/dharmaraj257/AWS-codepipeline/assets/100831265/143dcaff-d2f8-4925-bd32-503c10d7f21b)
 
