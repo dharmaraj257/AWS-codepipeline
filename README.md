@@ -12,7 +12,7 @@ The code will be deployed and hosted in S3.
 1. Create a bucket and give the unique name my-meme-game-150124.
 2. Uncheck Block all public access and acknowledge then click Create bucket.
 3. Go to the properties section Enable Static Website Hosting and add index.html click save changes.
-4. Go to permission click edit bucket policy and add the below policy copy and paste it into bucket policy
+4. Go to permission click edit bucket policy and add the below policy copy and paste it into bucket policy.
 ```
 {
     "Version": "2012-10-17",
