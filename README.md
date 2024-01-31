@@ -34,6 +34,7 @@ The code will be deployed and hosted in S3.
 
 # The Deployment Pipeline
 The pipeline is created using AWS Code Pipeline. The pipeline pulls the code from GitHub and deploys it to S3 whenever a change is detected in the code.
+
 # Setup Aws code pipeline
 1. Click Create code pile and give the pipeline name meme-pipeline.
 2. Select pipeline type v1 select new service role and click next.
